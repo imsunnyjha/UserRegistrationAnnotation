@@ -6,7 +6,7 @@ using System.Text;
 
 namespace AnnotationProblem
 {
-    class Employee
+    class UserRegistration
     {
         
         [RegularExpression("^[A-Z][a-z]+$")]
